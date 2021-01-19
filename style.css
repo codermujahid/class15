@@ -1,0 +1,63 @@
+*{
+    margin:0 auto;
+ 
+}
+.header{
+    background-color: rgb(38, 65, 94);
+    text-align: center;
+    color: aliceblue;
+    padding: 60px;
+}
+.header ul li{
+    list-style: none;
+    text-decoration: none;
+    display:inline-block;
+   
+}
+.header ul li a {
+	text-decoration: none;
+	margin-left: 39px;
+	background-color: #ff7800;
+	padding: 16px 29px;
+}
+.slider {
+	 background-image: url(stylish-hexagonal-line-pattern-background-1017-19742.jpg);
+	padding: 56px;
+}
+.cont{
+    background-color: #f76300;
+	padding: 56px;
+}
+.cors li{
+    list-style: none;
+    display:inline-block;
+    margin-left: 30px;
+}
+.foo {
+	color: rgb(10, 10, 10);
+	margin: 20px 100px 11px 51px;
+	padding: 20px 36px;
+}
+.header2{
+    background-color: rgb(38, 65, 94);
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+}
+.header2 ul li{
+    list-style: none;
+    text-decoration: none;
+    display:inline-block;
+ 
+   
+}
+.header2 ul li a {
+	text-decoration: none;
+	margin-left: 30px;
+	background-color: #ff7800;
+	padding: 16px 29px;
+}
+.mm{
+	text-decoration: none !important;
+	margin: 34px;
+}
